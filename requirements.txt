@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+yfinance
+wbgapi
+streamlit
+jupyter
+matplotlib
+seaborn
