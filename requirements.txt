@@ -1,8 +1,11 @@
 pandas
-scikit-learn
+numpy
 yfinance
 wbgapi
-streamlit
-jupyter
+scikit-learn
+lightgbm
+shap
 matplotlib
 seaborn
+streamlit
+plotly
